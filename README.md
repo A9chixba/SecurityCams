@@ -10,6 +10,6 @@ SecurityCams — это Telegram-бот для анализа видеопото
 🛠 Технологический стек
 -Язык программирования: Python 3.9+
 -Компьютерное зрение: OpenCV
--Нейронная сеть: TensorFlow/Keras (модель CNN)
+-Нейронная сеть: TensorFlow/Keras (модель CNN), YOLOv8(Ultralytics)
 -Telegram API: python-telegram-bot
 -Многопоточность: threading, Queue
